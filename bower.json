@@ -1,0 +1,22 @@
+{
+  "name": "job-test",
+  "authors": [
+    "Servio Mora <servio.mora19@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "font-awesome": "fontawesome#^4.6.2"
+  }
+}

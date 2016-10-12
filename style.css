@@ -1,0 +1,183 @@
+
+body {
+  font-family: Montserrat, sans-serif;
+}
+
+.header {
+  margin-top: 10px;
+}
+
+.header h2 {
+  margin-left: 10px;
+  font-weight: bolder;
+  color: #001f3f;
+}
+
+.header .contact {
+  position: absolute;
+  top: 5px;
+  right: 100px;
+  z-index: -1;
+}
+
+.contact h4 {
+  font-weight: bold;
+}
+
+.navigation {
+  width: 100%;
+  height: 50px;
+  background-color: #001f3f;
+  margin-bottom: 15px;
+}
+
+.navigation #nav {
+  vertical-align: middle;
+}
+
+#nav li {
+  list-style: none;
+  display: inline-block;
+  padding-right: 20px;
+  margin: 15px;
+  vertical-align: middle;
+}
+
+#nav li a {
+  color: #ECF1EF;
+}
+
+#nav li a:hover {
+  text-decoration: none;
+  color: #FFC100;
+}
+
+hr {
+  border: 0;
+  border-bottom: 1px dashed #ccc;
+  background: #999;
+}
+
+#main-box {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 15px;
+  background-color: #F1F1F1;
+}
+
+#main-img {
+  width: 550px;
+  height: 300px;
+  text-align: center;
+}
+
+.img-title {
+  margin-left: 25px;
+}
+
+.thumbnail-img img {
+  display: inline-block;
+  width: 150px;
+  height: 100px;
+}
+
+.fa-star {
+  color: #FFC100;
+  font-size: 1.2em;
+}
+
+.fa-star-o {
+  color: #FFC100;
+  font-size: 1.2em;
+}
+
+.initial-price {
+  text-decoration: line-through;
+  font-size: 1.2em;
+}
+
+.sale-price {
+  font-size: 1.2em;
+}
+
+.car-select .dropdown {
+  padding-top: 10px;
+}
+
+#addCart {
+  background-color: #F2CD70;
+  color: #000;
+}
+
+.suggestions {
+  margin-top: 25px;
+}
+
+.descr-feat p {
+  text-align: justify;
+}
+
+.descr-feat ul li {
+  padding-bottom: 10px;
+}
+
+.panel-default .panel-heading {
+  background-color: #001f3f;
+  color: #ECF1EF;
+  text-align: center;
+}
+
+.panel-body img {
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.side-price {
+  display: inline-block;
+  padding-left: 20px;
+  font-size: 1.3em;
+  font-weight: bold;
+  color: #001f3f;
+}
+
+.review-comment {
+  display: inline-block;
+  font-weight: bold;
+}
+
+.review {
+  text-align: justify;
+}
+
+.review-helpful {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.ebook-note {
+  padding-top: 20px;
+}
+
+footer {
+  margin-top: 20px;
+  background-color: #424949;
+  color: #ECF1EF;
+  height: 200px;
+}
+
+.row-title {
+  font-size: 1.3em;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.container td a {
+  font-size: 1.2em;
+  color: #ECF1EF;
+  text-decoration: none;
+  padding-top: 10px;
+  padding-left: 10px;
+  line-height: 40px;
+  text-align: justify;
+}
